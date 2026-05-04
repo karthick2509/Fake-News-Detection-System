@@ -2,7 +2,7 @@
 
 A robust Machine Learning system designed to identify and classify news articles as **Real** or **Fake**. This project leverages Natural Language Processing (NLP) techniques and various classification algorithms to provide high-accuracy predictions.
 
-##Overview
+## Overview
 
 In the era of information overload, the spread of misinformation is a significant challenge. This system provides a tool to verify the authenticity of news articles by analyzing their content. It processes raw text, extracts meaningful features using TF-IDF, and utilizes the best-performing machine learning model for classification.
 
